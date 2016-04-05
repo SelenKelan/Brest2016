@@ -12,6 +12,6 @@ Projet de bateau autonome pour [Brest 2016](https://www.brest2016.fr/)
 # Notes:
 Ne pas oublier de :  
 - initialiser les sous-modules: `git submodule init`
-- récupérer les fichier du sous—module: `git submodule update` [^1]
+- récupérer les fichier du sous—module: `git submodule update` [1]
 
-[^1]:https://git-scm.com/book/en/v2/Git-Tools-Submodules
+[1]:https://git-scm.com/book/en/v2/Git-Tools-Submodules
